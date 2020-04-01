@@ -1,0 +1,4 @@
+github.com/MediaExchange/assert v1.0.0 h1:ymQZ2t/HjFTbP3ULy/yV4kjcxCYq3E+RreQkLVGarnQ=
+github.com/MediaExchange/assert v1.0.0/go.mod h1:V2hU9H4OKuzfEt9cmOgHZoozMio4wcVKfItg5s4szyA=
+github.com/MediaExchange/log v1.0.0 h1:8mPNCuIzZYdepSEOGsoJ+FyiqKgGEdtRUR+2GL/KHW4=
+github.com/MediaExchange/log v1.0.0/go.mod h1:ZRjfAp3pxC3z+8eKQylN4jX7jCuD4CXneqgDAMKzOtY=
